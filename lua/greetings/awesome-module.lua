@@ -1,5 +1,5 @@
 local function greet()
-	print("Hello")
+	print("Hello, World!")
 end
 
 return greet
